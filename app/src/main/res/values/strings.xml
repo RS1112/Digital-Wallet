@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Digital Wallet</string>
+    <string name="login">Login</string>
+    <string name="enter_the_phone_number">Enter the phone number</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone number</string>
+    <string name="registration">Registration</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account!! Register...</string>
+    <string name="click_to_login">Click to login.</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="otp">OTP</string>
+    <string name="user_info">User info</string>
+    <string name="logout">Logout</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="edit">Edit</string>
+    <string name="change">Change</string>
+    <string name="email">Email</string>
+    <string name="dob">DOB</string>
+    <string name="adhar_number">Adhar Number</string>
+</resources>

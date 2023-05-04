@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851997955996",
+    "project_id": "digital-f1c5b",
+    "storage_bucket": "digital-f1c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851997955996:android:cb03ee57a43cb0b70f9a59",
+        "android_client_info": {
+          "package_name": "com.example.digitalwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851997955996-uhj6j7234hfsbgb2joq0fmkne0sbq96r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCakIollhi6fvP3-CulgSceEBPUQddymwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851997955996-uhj6j7234hfsbgb2joq0fmkne0sbq96r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
